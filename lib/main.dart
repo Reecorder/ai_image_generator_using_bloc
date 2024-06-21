@@ -1,4 +1,3 @@
-import 'package:ai_image_generator_using_bloc/presentation/home/ui/home__screen.dart';
 import 'package:ai_image_generator_using_bloc/presentation/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 
