@@ -1,6 +1,6 @@
 # ai_image_generator_using_bloc
 
-A new Flutter project.
+A Flutter project that shows how we can artificial intelligence to give thoughts a stunning visualization. I have used bloc as for my application state management.
 
 ## Getting Started
 
